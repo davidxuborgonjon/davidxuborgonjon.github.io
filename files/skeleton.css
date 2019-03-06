@@ -94,8 +94,8 @@ p{
 }
 
 .red {
-          font-weight: bolder;
-          color: red;
+          font-weight: bold;
+          color: #cc0825;
 }
 
 ::selection {
