@@ -158,7 +158,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 a {
    text-shadow: -1px 0px 3px #FFF;
    color: rgba(0,0,0,0);
-   text-decoration: none;
+   text-decoration: underline;
 }
 
 a:hover, a:focus {
